@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Yonatan
 
 - 🌱 I’m currently learning full stack web development
-- 💬 Ask me about music!!
-- 📫 How to reach me: email : yoni2528@gmail.com
+- 💬 Ask me about music or cryptocurrency
 
 <!--
 **yoni2528/yoni2528** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
