@@ -5,19 +5,18 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm a self-taught full-stack engineer 🎓 learned **alot** of udemy courses 🏛. I'm a passionate learner who's always willing to learn and work across new technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.👨🏻‍💻. I'm currently into Web Development 🕸️
+🎓 I'm a self-taught full-stack engineer, learned **alot** of udemy courses 
+🏛  I'm a passionate learner who's always willing to learn and work across new technologies 
+💡  I love to explore new technologies and leverage them to solve real-life problems 
+👨🏻‍💻 I'm currently into Web Development 🕸️
 
-### Talking about Personal Stuffs:
+### A little about me: 
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> , Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/iampavangandhi).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/yoni2528).
 - 📫 &nbsp; How to reach me: yoni2528@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
-
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
 
 ### Languages and Tools:
 
