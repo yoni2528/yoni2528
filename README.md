@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Yonatan Atias!](https://github.com/iampavangandhi/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yonatan-atias-3676ba229/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/yoni2529)
 
 ### Glad to see you here! &nbsp;
 
