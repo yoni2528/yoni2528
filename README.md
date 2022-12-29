@@ -1,5 +1,5 @@
 ### Hi there 👋
- I'm Yonatan, a 24 years old self-taught full-stack engineer
+## I'm Yonatan, a 24 years old self-taught full-stack engineer
 
 - 🌱 I’m currently learning full stack web development
 - 💬 Ask me about music or cryptocurrency
