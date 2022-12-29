@@ -3,9 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iampavangandhi)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
 
-### Glad to see you here! &nbsp; !
+### Glad to see you here! &nbsp;
 
-I'm a self-taught full-stack engineer 🎓 from **alot** of udemy courses 🏛. I'm a passionate learner who's always willing to learn and work across new technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.👨🏻‍💻. I'm currently into Web Development 🕸️
+I'm a self-taught full-stack engineer 🎓 learned **alot** of udemy courses 🏛. I'm a passionate learner who's always willing to learn and work across new technologies 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.👨🏻‍💻. I'm currently into Web Development 🕸️
 
 ### Talking about Personal Stuffs:
 
