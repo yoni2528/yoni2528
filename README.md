@@ -5,7 +5,7 @@
 
 ### Glad to see you here! &nbsp;
 
-🎓 I'm a self-taught full-stack engineer, learned **alot** of udemy courses </br>
+🎓 I'm a self-taught full-stack engineer, learned from udemy and practical projects </br>
 🏛  I'm a passionate learner who's always willing to learn and work across new technologies  </br>
 💡  I love to explore new technologies and leverage them to solve real-life problems  </br>
 👨🏻‍💻 I'm currently looking for my first job as web developer
